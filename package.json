@@ -1,0 +1,15 @@
+{
+  "name": "propertiestojson",
+  "version": "1.0.0",
+  "description": "A tool for transforming properties file to json file",
+  "main": "index.js",
+  "dependencies": {
+    "properties-reader": "0.0.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hawtim",
+  "license": "ISC"
+}
