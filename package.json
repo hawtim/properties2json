@@ -4,7 +4,7 @@
   "description": "A tool for transforming properties file to json file",
   "main": "index.js",
   "dependencies": {
-    "properties-reader": "0.0.16"
+    "properties-reader": "2.2.0"
   },
   "devDependencies": {},
   "scripts": {
